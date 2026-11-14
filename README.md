@@ -11,7 +11,7 @@ The project provides a futuristic AI dashboard experience with a responsive inte
 ## 🚀 Live Demo
 
 🌐 **Live Application:**  
-https://yolovisionstudiopro-rs.streamlit.app/
+(https://rajendra-ai-assistant.streamlit.app/)
 
 ---
 
