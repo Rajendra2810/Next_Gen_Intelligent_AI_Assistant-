@@ -161,17 +161,9 @@ Rajendra-AI-Voice-Console/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-├── .gitignore
-│
-├── Alexa_adv.py
-├── Alexa_raj.py
-├── Play_a_video.py
-├── whatsapp_msg.py
-│
-└── assets/
-    ├── logo/
-    ├── icons/
-    └── images/
+├── robot_avatar.jpg
+│--- 
+
 ```
 
 ---
