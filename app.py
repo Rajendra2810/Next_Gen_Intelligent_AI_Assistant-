@@ -100,7 +100,7 @@ st.markdown(
 # ==============================================================================
 def get_robot_avatar_b64() -> str:
     """Retrieve base64 encoded string of the 3D robot avatar image."""
-    avatar_file = Path(__file__).parent / "assets" / "robot_avatar.jpg"
+    avatar_file = Path(__file__).resolve().parent / "robot_avatar.jpg"
     if avatar_file.exists():
         try:
             with open(avatar_file, "rb") as f:
